@@ -30,25 +30,7 @@ The founding team cannot answer the question its entire marketing budget depends
 
 ---
 
-## Repository structure
 
-```
-.
-├── data/
-│   ├── raw/                     # Original 3,900-record dataset (18 columns)
-│   └── processed/               # Cleaned + engineered dataset (27 features)
-├── notebooks/
-│   └── 01_cleaning_feature_engineering.ipynb
-├── sql/
-│   └── customer_value_analysis.sql        # Sections A–G, 12 queries
-├── dashboard/
-│   └── Dashboard.pbix                     # 4-panel Power BI founder dashboard
-├── reports/
-│   ├── Feature_Engineering_and_SQL_Analysis_Report.pdf
-│   ├── Retention_Playbook.docx            # Promo sunset plan + ideal customer profile
-│   └── Executive_Summary.pdf              # 1-page summary for the founding team
-└── README.md
-```
 
 ---
 
